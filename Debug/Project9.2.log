@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Solomia\source\repos\Project9.2\Project9.2\Source.cpp(207,32): warning C4805: '==': unsafe mix of type 'Spec' and type 'bool' in operation
+C:\Users\Solomia\source\repos\Project9.2\Project9.2\Source.cpp(215,36): warning C4805: '==': unsafe mix of type 'Spec' and type 'bool' in operation
+  Project9.2.vcxproj -> C:\Users\Solomia\source\repos\Project9.2\Debug\Project9.2.exe
